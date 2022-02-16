@@ -18,7 +18,7 @@
   I'm James (or newtjam, or newt) and I like to make cool things and learn new stuff while doing so.
 </h3>
 
-<br/><br/>
+<br/>
 
 ### 👨‍💻 What I'm working on:
 - Building a platform for running community [iRacing](https://iracing.com) events
