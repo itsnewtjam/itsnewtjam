@@ -2,9 +2,13 @@
   <img src="img/header.png" />
 </p>
 
-<div style="display: flex;">
-  <img src="img/website.png" />
-  <img src="img/portfolio.png" />
+<div style="display: flex; margin: auto 0;">
+  <a href="https://newtjam.com">
+    <img src="img/website.png" />
+  </a>
+  <a href="https://portfolio.newtjam.com">
+    <img src="img/portfolio.png" />
+  </a>
 </div>
 
 ### Hi there 👋
