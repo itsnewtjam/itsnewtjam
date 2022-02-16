@@ -11,7 +11,23 @@
   </a>
 </div>
 
-### Hi there 👋
+<h1 align="center">
+  👋 Hello friend!
+</h1>
+<h3 align="center">
+  I'm James (or newtjam, or newt) and I like to make cool things and learn new stuff while doing so.
+</h3>
+
+<div align="center">
+  <div>
+    <h3>Tools I enjoy</h3>
+    <ul>
+      <li>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
+      </li>
+    </ul>
+  </div>
+</div>
 
 <!--
 **itsnewtjam/itsnewtjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
