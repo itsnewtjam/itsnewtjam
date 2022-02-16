@@ -2,6 +2,11 @@
   <img src="img/header.png" />
 </p>
 
+<div style="display: flex;">
+  <img src="img/website.png" />
+  <img src="img/portfolio.png />
+</div>
+
 ### Hi there 👋
 
 <!--
