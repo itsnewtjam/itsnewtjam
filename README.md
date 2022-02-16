@@ -2,7 +2,7 @@
   <img src="img/header.png" />
 </p>
 
-<div style="display: flex; margin: auto 0;">
+<div align="center">
   <a href="https://newtjam.com">
     <img src="img/website.png" />
   </a>
