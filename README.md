@@ -1,4 +1,6 @@
-![](img/header.png)
+<p align="center">
+  <img src="img/header.png" />
+</p>
 
 ### Hi there 👋
 
