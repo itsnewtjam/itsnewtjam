@@ -18,26 +18,20 @@
   I'm James (or newtjam, or newt) and I like to make cool things and learn new stuff while doing so.
 </h3>
 
-<div align="center">
-  <div>
-    <h3>Tools I'm enjoying lately</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" /><span>Next.js</span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" /><span>Sass</span>
-    <span>Supabase</span>
-  </div>
-</div>
+<br/><br/>
 
-<!--
-**itsnewtjam/itsnewtjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 What I'm working on:
+- Building a platform for running community [iRacing](https://iracing.com) events
+- Revamping my personal site with Next.js
+- Revamping my portfolio site with Next.js
+- Building a GUI shop [Spigot](https://spigotmc.org) plugin
 
-Here are some ideas to get you started:
+### 🌟 Tools I'm enjoying lately:
+- Next.js
+- Supabase
+- TinaCMS
+- Express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Things I'm learning next: 
+- Typescript
+- Jest
