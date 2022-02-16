@@ -20,12 +20,10 @@
 
 <div align="center">
   <div>
-    <h3>Tools I enjoy</h3>
-    <ul>
-      <li>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
-      </li>
-    </ul>
+    <h3>Tools I'm enjoying lately</h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" /><span>Next.js</span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" /><span>Sass</span>
+    <span>Supabase</span>
   </div>
 </div>
 
