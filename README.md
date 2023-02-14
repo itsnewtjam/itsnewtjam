@@ -6,9 +6,6 @@
   <a href="https://newtjam.com">
     <img src="img/website.png" />
   </a>
-  <a href="https://portfolio.newtjam.com">
-    <img src="img/portfolio.png" />
-  </a>
 </div>
 
 <h1 align="center">
@@ -21,8 +18,7 @@
 <br/>
 
 ### 👨‍💻 What I'm working on:
-- Revamping my personal site with Next.js + TinaCMS
-- Revamping my portfolio site with Next.js + Strapi
+- Revamping my personal site with Next.js + Strapi
 - Dissecting Pokemon FireRed savegame
 - Building a platform for running community [iRacing](https://iracing.com) events
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
