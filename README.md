@@ -18,18 +18,21 @@
 <br/>
 
 ### 👨‍💻 What I'm working on:
-- Revamping my personal site with Next.js + Strapi
+
+- Building a painless [Joomla 4](https://joomla.ord) template
 - Dissecting Pokemon FireRed savegame
 - Building a platform for running community [iRacing](https://iracing.com) events
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
 
 ### 🌟 Tools I'm enjoying lately:
+
 - Next.js
 - Strapi
 - Supabase
 - TinaCMS
 
-### 📚 Things I'm learning next: 
+### 📚 Things I'm learning next:
+
 - Typescript
 - Strapi
 - Jest
