@@ -17,9 +17,14 @@
 
 <br/>
 
+### 🎉 Recent projects:
+
+- Tool for quickly finding ActiveCampaign tag and field IDs [AC ID Finder](https://acidfinder.com)
+- Revamped my [personal site](https://newtjam.com) with Next.js and Strapi
+
 ### 👨‍💻 What I'm working on:
 
-- Building a painless [Joomla 4](https://joomla.ord) template
+- Building a painless [Joomla 4](https://joomla.org) template
 - Dissecting Pokemon FireRed savegame
 - Building a platform for running community [iRacing](https://iracing.com) events
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
@@ -27,9 +32,9 @@
 ### 🌟 Tools I'm enjoying lately:
 
 - Next.js
+- Styled Components
 - Strapi
 - Supabase
-- TinaCMS
 
 ### 📚 Things I'm learning next:
 
