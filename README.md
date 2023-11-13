@@ -24,17 +24,18 @@
 
 ### 👨‍💻 What I'm working on:
 
-- Building a painless [Joomla 4](https://joomla.org) template
-- Dissecting Pokemon FireRed savegame
+- Building a painless [Joomla 4/5](https://joomla.org) template
+- Building a painless [Joomla 4/5](https://joomla.org) forms component
 - Building a platform for running community [iRacing](https://iracing.com) events
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
 
 ### 🌟 Tools I'm enjoying lately:
 
 - Next.js
+- Remix
 - Styled Components
 - Strapi
-- Supabase
+- neovim
 
 ### 📚 Things I'm learning next:
 
