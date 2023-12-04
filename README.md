@@ -25,6 +25,7 @@
 ### 👨‍💻 What I'm working on:
 
 - Building a painless [Joomla 4/5](https://joomla.org) template
+- Building a painless [Joomla 4/5](https://joomla.org) ecommerce component
 - Building a painless [Joomla 4/5](https://joomla.org) forms component
 - Building a platform for running community [iRacing](https://iracing.com) events
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
