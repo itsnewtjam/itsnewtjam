@@ -23,9 +23,7 @@
 
 # 👋 Hello friend!
 
-I'm James (or newtjam, or newt) and I like to make cool things and learn new stuff while doing so.
-
-I'm a full-time full-stack developer, and I am motivated by the feeling of creating something that makes a positive difference for others, whether that is by making their life easier or just by making it more fun.
+I'm James (or newtjam, or newt), a full-time full-stack developer motivated by the feeling of creating something that makes a positive difference for others, whether that is by making their life easier or just by making it more fun.
 
 <br/>
 
