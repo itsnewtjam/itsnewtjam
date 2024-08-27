@@ -29,6 +29,7 @@ I'm James (or newtjam, or newt), a full-time full-stack developer motivated by t
 
 ### 🎉 Recent projects:
 
+- Revamped my [personal site](https://newtjam.com) with Remix and Strapi
 - Tool for quickly finding ActiveCampaign tag and field IDs [AC ID Finder](https://acidfinder.com)
 - Suggested content and customer reviews display with HTMX
 - Online scheduling and appointment management system using React, integrating with Google Calendar
@@ -36,8 +37,8 @@ I'm James (or newtjam, or newt), a full-time full-stack developer motivated by t
 ### 👨‍💻 What I'm working on:
 
 - Building a painless [Joomla 4/5](https://joomla.org) template [(see here)](https://github.com/itsnewtjam/newtralize)
+- Building an online restaurant carry-out system
 - Building a shortcode templating system for [Joomla 4/5](https://joomla.org)
-- Revamping my [personal site](https://newtjam.com) with Next.js and Strapi
 - Building a GUI shop [Spigot](https://spigotmc.org) plugin
 
 ### 🌟 Tools I'm enjoying lately:
