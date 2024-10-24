@@ -1,99 +1,116 @@
-<svg fill="none" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" width="100%" height="auto">
-  <style>
-    .container {
-      box-sizing: border-box;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      width: 100%;
-      height: auto;
-      margin: auto;
-      border: 4px solid #05b6e7;
-      border-radius: 32px;
-      background-color: hsl(230, 15%, 15%);
-      color: hsl(60, 30%, 96%);
-      font-family: ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
-      text-align: center;
-      animation: zoom 500ms ease forwards;
-    }
+<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          height: auto;
+          margin: auto;
+          border: 4px solid #05b6e7;
+          border-radius: 32px;
+          background-color: hsl(230, 15%, 15%);
+          color: hsl(60, 30%, 96%);
+          font-family: ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+          text-align: center;
+          transform: scale(0);
+          transform-origin: bottom;
+          animation: zoom 500ms ease forwards;
+        }
 
-    .container > * {
-      margin: 0;
-    }
+        .container > * {
+          margin: 0;
+        }
 
-    .name {
-      display: inline-block;
-      width: 0;
-      overflow: hidden;
-      animation: type 500ms 1s steps(7, end) forwards;
-    }
+        .container > h1 {
+          margin-bottom: 2px;
+        }
 
-    .cursor {
-      animation: blink 1s 500ms ease infinite;
-    }
+        .container > p {
+          font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+        }
 
-    .position {
-      margin-bottom: 32px;
-      color: hsl(230, 15%, 45%);
-      font-size: 80%;
-      opacity: 0;
-      animation: fade 500ms 1.5s ease forwards;
-    }
+        .name {
+          display: inline-block;
+          width: 0;
+          vertical-align: middle;
+          overflow: hidden;
+          animation: type 500ms 1s steps(7, end) forwards;
+        }
 
-    .tag {
-      opacity: 0;
-      animation: fade 500ms 1.75s ease forwards;
-    }
+        .cursor {
+          animation: blink 1s 500ms ease infinite;
+        }
 
-    @keyframes zoom {
-      from {
-        transform: scale(0);
-      }
-      to {
-        transform: scale(1);
-      }
-    }
+        .position {
+          margin-bottom: 32px;
+          color: hsl(230, 15%, 45%);
+          font-size: 80%;
+          opacity: 0;
+          transform: translateY(20px);
+          animation: fade 500ms 1.5s ease forwards;
+        }
 
-    @keyframes type {
-      from {
-        width: 0;
-      }
-      to {
-        width: 7ch;
-      }
-    }
+        .tag {
+          opacity: 0;
+          transform: translateY(20px);
+          animation: fade 500ms 1.75s ease forwards;
+        }
 
-    @keyframes blink {
-      0% {
-        opacity: 0;
-      }
-      100% {
-        opacity: 1;
-      }
-    }
+        @keyframes zoom {
+          from {
+            transform: scale(0);
+          }
+          to {
+            transform: scale(1);
+          }
+        }
 
-    @keyframes fade {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
+        @keyframes type {
+          from {
+            width: 0;
+          }
+          to {
+            width: 7ch;
+          }
+        }
 
-  <foreignObject width="100%" height="auto">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-      <h1>><span class="name">newtjam</span><span class="cursor">_</span></h1>
-      <p class="position">Full-Stack Web Developer</p>
-      <p class="tag">
-        Making cool things and learning 
-        <br/>
-        new stuff while doing so.
-      </p>
+        @keyframes blink {
+          0% {
+            opacity: 0;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+
+        @keyframes fade {
+          from {
+            opacity: 0;
+            transform: translateY(20px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>><span class="name">newtjam</span><span class="cursor">_</span></h1>
+        <p class="position">
+          Full-Stack Web Developer
+        </p>
+        <p class="tag">
+          Making cool things and learning 
+          <br/>
+          new stuff while doing so.
+        </p>
+      </div>
     </div>
   </foreignObject>
 </svg>
