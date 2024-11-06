@@ -1,5 +1,5 @@
-<p align="center" style="width: 100%; height: auto; max-height: 200px; aspect-ratio: 9/5">
-  <img src="img/header.svg" />
+<p align="center">
+  <img src="img/header.svg" style="height: 200px" />
 </p>
 
 <div align="center">
