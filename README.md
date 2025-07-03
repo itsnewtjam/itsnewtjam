@@ -29,8 +29,8 @@ I'm James (or newtjam, or newt), a full-stack developer and I love creating some
 
 ### 🎉 Recent projects:
 
+- Migrated my [personal site](https://newtjam.com) to React Router and Strapi
 - Online restaurant carry-out ordering system with dashboard using HTMX
-- Revamped my [personal site](https://newtjam.com) with Remix and Strapi
 - Tool for quickly finding ActiveCampaign tag and field IDs [AC ID Finder](https://acidfinder.com)
 - Suggested content and customer reviews display with HTMX
 - Online scheduling and appointment management system using React, integrating with Google Calendar
